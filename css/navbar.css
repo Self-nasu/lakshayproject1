@@ -1,0 +1,39 @@
+.nav-head {
+    display: flex;
+    padding: 10px;
+    height: 100px;
+    align-items: center;
+}
+
+.nav-logo {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+}
+
+.nav-logo img {
+    width: 60px;
+    height: 80px;
+    transform: rotate(6.371deg);
+}
+
+.nav-details {
+    color: #000;
+    display: flex;
+    justify-self: flex-end;
+    font-family: 'Lexend', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.nav-details span{
+    justify-content: flex-end;
+    margin: 25px;   
+}
+
+.nav-details span a {
+    text-decoration: none;
+    color: var(--primary-color);
+    justify-content: flex-end;
+}

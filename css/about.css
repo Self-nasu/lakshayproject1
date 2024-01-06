@@ -1,0 +1,31 @@
+.main-intro {
+    font-family : 'Lexend', sans-serif;
+    padding : 5px;
+    display: inline-flex;
+}
+
+.intro-about{
+    padding-left : 40px;
+    padding-top: 100px;
+    justify-content: flex-start;
+}
+
+.intro-head {
+    display: inline-flex;
+    padding : 1px;
+}
+
+.intro-head h1 p {
+    padding-bottom : 5px;
+}
+.intro-head-org {
+    color : #ff9900;
+    font-family: 'Lemon', serif;
+    padding: 2px;
+}
+
+.intro-img img{
+    justify-content: flex-end;
+    height: 920px;
+    width: 840px;
+}

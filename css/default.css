@@ -1,0 +1,7 @@
+.cust-btn-fill {
+    background-color: var(--secondary-color);
+    padding: 23px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 12px;
+}

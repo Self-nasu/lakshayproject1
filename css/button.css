@@ -1,0 +1,15 @@
+.cust-btn-fill {
+    background-color: var(--primary-color);
+    padding: 23px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 12px;
+}
+
+.cust-btn-hollow {
+    padding: 23px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 12px;
+    border: 2px solid var(--primary-color);
+}
